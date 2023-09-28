@@ -2,7 +2,7 @@
 // Пользователю должно показаться сообщение, что пустые строки вводить нельзя.
 
 
-package task4;
+package HW2.task4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

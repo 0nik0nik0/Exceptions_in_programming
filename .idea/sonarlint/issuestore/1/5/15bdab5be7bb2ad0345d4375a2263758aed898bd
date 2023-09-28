@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ãôª8Ûˆöê¬1
+G
+java:S1181"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ8õˆöê¬1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜ÿ¤ûÿÿÿÿ8úˆöê¬1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ëíõ8üˆöê¬1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ùÏ‹Ÿ8ıˆöê¬1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¯üÌ8ıˆöê¬1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­ –8ÿˆöê¬1

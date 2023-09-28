@@ -1,0 +1,8 @@
+
+d
+java:S2184"BCast one of the operands of this division operation to a "double".(æ¬¥Ýøÿÿÿÿ8‘´±ë¬1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ñ´ßùÿÿÿÿ8”´±ë¬1
+Y
+java:S3518"7Make sure "d" can't be zero before doing this division.(æ¬¥Ýøÿÿÿÿ8–²çë¬1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í™…ëøÿÿÿÿ8œ´±ë¬1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ƒ‚¼ÿÿÿÿÿ8œ´±ë¬1
